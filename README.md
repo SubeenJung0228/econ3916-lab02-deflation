@@ -35,4 +35,4 @@ across future analyses.
   rose only 43% while CPI rose 95% over the same window, confirming that
   roughly three-quarters of the sticker-price increase reflects broad
   inflation rather than a burger-specific cost increase
-"""
+
